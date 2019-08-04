@@ -1,4 +1,5 @@
 {
-    "mongoURI": "mongodb+srv://Elozzy:urlShortener@urlshortener-cluster-xcsux.mongodb.net/test?retryWrites=true&w=majority",
+    "mongoURI": "",
     "baseUrl" : "http://localhost:5000"
 }
+
